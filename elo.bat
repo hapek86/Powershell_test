@@ -1,3 +1,3 @@
 @echo off
 echo "hapek King"
-echo "Brat"
+echo "TEST TEST"
